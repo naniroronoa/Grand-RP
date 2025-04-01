@@ -7,9 +7,9 @@ body{
 h1 {
   font-family: "Montserrat", sans-serif;
   font-weight: 600;
-  color: #00ff00;
+  color: #ffffff;
   text-align: center;
-  text-shadow: 0 0 5px #00ff00, 0 0 10px #00ff00, 0 0 15px #00ff00, 0 0 20px #00ff00;
+  text-shadow: 0 0 5px #000000, 0 0 10px #ffffff, 0 0 15px #ffffff, 0 0 20px #ffffff;
   margin-top: 10px;
 }
 a{
@@ -343,14 +343,14 @@ a{
 
 .neon-input {
     background-color: #1a1a1a;
-    border: 2px solid #00ff00;
-    color: #00ff00;
+    border: 2px solid #ffffff;
+    color: #ffffff;
     padding: 10px;
     margin: 5px 0;
     width: 80%;
     text-align: center;
     font-size: 1rem;
-    box-shadow: 0 0 5px #00ff00, 0 0 10px #00ff00, 0 0 15px #00ff00, 0 0 20px #00ff00;
+    box-shadow: 0 0 5px #ffffff, 0 0 10px #ffffff, 0 0 15px #ffffff, 0 0 20px #ffffff;
 }
 
 .collapsible {
