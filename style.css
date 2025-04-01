@@ -5,7 +5,7 @@ body{
     background-color: black;
 }
 h1 {
-  font-family: "Danymeka", sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-weight: 600;
   color: #00ff00;
   text-align: center;
@@ -117,20 +117,22 @@ a{
     flex-direction: column;
     align-items: center;
     gap: 0.5rem;
-    font-family: "Dancing Script", cursive;
     font-optical-sizing: auto;
     font-weight: 400;
     font-style: normal;
   }
   .card .card_title__container .card_title {
-    font-size: 2.5rem;
+    font-size: 70px;
     color: var(--white);
+    font-family: "creattion demo", cursive;
+
   }
   
   .card .card_title__container .card_paragraph {
     margin-top: 0.25rem;
-    font-size: 1.5rem;
+    font-size: 1rem;
     color: var(--paragraph);
+    font-family: "anekina regular", cursive;
   }
   
   .card .line {
